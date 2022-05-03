@@ -9951,9 +9951,6 @@
 127.0.0.1 tidaltv.com
 127.0.0.1 trk.tidaltv.com
 
-# [tiktok.com]
-127.0.0.1 analytics.tiktok.com
-
 # [tiltingpoint.io]
 127.0.0.1 registration.tiltingpoint.io
 127.0.0.1 utctime.tiltingpoint.io
