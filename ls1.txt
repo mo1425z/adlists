@@ -21206,7 +21206,6 @@ vkcdnservice.appspot.com^
 ||ad.outsidehub.com^
 ||ad.reklamport.com^
 ||ad.wsod.com^
-||ads-sg.tiktok.com^
 ||ads.audio.thisisdax.com^
 ||ads.sportradar.com^
 ||adserving.unibet.com^
@@ -26734,14 +26733,6 @@ vkcdnservice.appspot.com^
 ||xovq5nemr.com^
 ||zbwp6ghm.com^
 !
-! TikTok
-||xlog.tiktokv.com^
-||xlog-va.tiktokv.com^
-||xlog*-*.tiktokv.com^
-||mcs-va.tiktokv.com^
-||mcs-va-*.tiktokv.com^
-||analytics.tiktok.com^
-!
 ! start: Big Star Labs
 ||yourblocksite.com^
 ||taskapi.net^
@@ -26882,7 +26873,6 @@ vkcdnservice.appspot.com^
 ||adc-js.nine.com.au^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pinterest.com^
-||analytics-sg.tiktok.com^
 ||analytics.developer.riotgames.com^
 ||counter.mgronline.com^
 ||omapi.fangraphs.com^
@@ -28649,11 +28639,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||w88.espn.com^
 ||xtag.autotrader.com^
 ||zdlogs.sphereup.com^
-! Tiktok app
-||log.musical.ly^
-||log2.musical.ly^
-||frontier.musical.ly^
-||xlog-va.musical.ly^
 
 !
 ! Source name: AdGuard Tracking Protection filter mobile trackers
@@ -28790,7 +28775,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logend.cookpad.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
-||rtlog*.tiktokv.com^
 ||uts-front.line-apps.com^
 ||nelo2-col.linecorp.com^
 ||msga.cupid.iqiyi.com^
@@ -28833,7 +28817,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dflow.log.hunantv.com^
 ||msg.simeji.me^
 ||msg.simeji.baidu.jp^
-||log.tiktokv.com^
 ||beacons*.gvt3.com^
 ||appanalysis*.banggood.com^
 ||line1-log.biligame.net^
@@ -30933,7 +30916,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||martech.condenastdigital.com^
 ||mas.nth.ch^
 ||mcdp-*.outbrain.com^
-||mcs-va.tiktok.com^
 ||mcs.delvenetworks.com^
 ||measure.refinery89.com^
 ||mediametrics.mpsa.com^
