@@ -652,7 +652,6 @@
 ||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
-||ads.tiktok.com^
 ||ads.tmcs.net^
 ||ads.todoti.com.br^
 ||ads.toplayaffiliates.com^
